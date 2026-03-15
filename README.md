@@ -75,10 +75,11 @@ Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**. I enjoy bu
 
 ## 💡 Featured Projects
 
-### ✈️ Airline Management System
-Java-based airline management system to manage flights, passengers & bookings using **Java, MySQL, OOP and CRUD operations**.
+- 🛒 <a href="https://github.com/RoyEid/eCommerce"><b>eCommerce Web Application</b></a>  
+  Full-stack eCommerce web application featuring **authentication, product management, and admin dashboard**, built with **PHP, MySQL, JavaScript, jQuery, and Bootstrap** with a responsive user interface.
 
-🔗 https://github.com/RoyEid/Airline-Management-System
+- 🌐 <a href="https://github.com/RoyEid/Template_1"><b>Template_1</b></a>  
+  Responsive **HTML/CSS website template** showcasing modern layout design and responsive web development practices.
 
 ---
 
