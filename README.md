@@ -21,7 +21,7 @@ I enjoy building scalable applications, improving backend architecture, and expl
 
 ---
 
-# 🛠 Technologies I Use
+## 🛠 Technologies I Use
 
 *(ordered by what I currently use most)*
 
@@ -53,7 +53,7 @@ I enjoy building scalable applications, improving backend architecture, and expl
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br/>PHP
 </td>
 
 </tr>
@@ -61,7 +61,19 @@ I enjoy building scalable applications, improving backend architecture, and expl
 <tr>
 
 <td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
+</td>
+
+<td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/><br/>Bootstrap
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48"/><br/>jQuery
 </td>
 
 <td align="center" width="110">
@@ -74,7 +86,6 @@ I enjoy building scalable applications, improving backend architecture, and expl
 
 </tr>
 </table>
-
 ---
 
 # 📈 GitHub Stats
