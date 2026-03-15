@@ -53,16 +53,12 @@ I enjoy building scalable applications, improving backend architecture, and expl
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br/>PHP
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
 </td>
 
 </tr>
 
 <tr>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
-</td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3
@@ -74,6 +70,10 @@ I enjoy building scalable applications, improving backend architecture, and expl
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48"/><br/>jQuery
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br/>PHP
 </td>
 
 <td align="center" width="110">
