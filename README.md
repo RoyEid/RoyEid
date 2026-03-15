@@ -1,32 +1,35 @@
 # Hi there 👋, I'm Roy!
 
-Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**. I enjoy building scalable apps, sharpening backend skills, and exploring modern frontend & backend technologies.
+Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**.  
+I enjoy building scalable applications, improving backend architecture, and exploring modern frontend & backend technologies.
 
 ---
 
-## 📬 How to reach me
+# 📬 How to reach me
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/royeid02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:roy.eid02@gmail.com)
 
 ---
 
-## 💡 About Me
-- 💻 Full-stack developer working with **Java, React, Node.js, Express.js & MySQL**
-- 🧠 Passionate about clean code, problem-solving, and scalable application design
-- 🌱 Always learning modern frontend and backend technologies
+# 💡 About Me
+
+- 💻 Full-Stack developer working with **Java, React, Node.js, Express.js & MySQL**
+- 🧠 Passionate about **clean code, scalable architecture and problem solving**
+- 🌱 Always learning modern **frontend and backend technologies**
+- 🚀 Interested in building **real-world web applications**
 
 ---
 
-## 🛠 My favorite tools and technologies
+# 🛠 Technologies I Use
+
+*(ordered by what I currently use most)*
 
 <table>
 <tr>
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>Java
-</td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/>MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>JavaScript
 </td>
 
 <td align="center" width="110">
@@ -38,19 +41,25 @@ Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**. I enjoy bu
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br/>Express.js
+<img src="https://skillicons.dev/icons?i=express" width="48"/><br/>Express
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>JavaScript
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/>MySQL
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>Java
 </td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
 </td>
+
 </tr>
 
 <tr>
+
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3
 </td>
@@ -60,39 +69,53 @@ Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**. I enjoy bu
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>GitHub
+<img src="https://skillicons.dev/icons?i=github" width="48"/><br/>GitHub
 </td>
+
 </tr>
 </table>
 
 ---
 
-## 📈 GitHub Stats
+# 📈 GitHub Stats
 
 <p align="center">
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=RoyEid&show_icons=true&theme=tokyonight"/>
+
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RoyEid&layout=compact&theme=tokyonight"/>
+
 </p>
 
 ---
 
-## 📊 Contribution Graph
+# 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoyEid&theme=react-dark)
 
 ---
 
-## 💡 Featured Projects
+# 💡 Featured Projects
 
-### ✈️ Airline Management System
-Java-based airline management system to manage flights, passengers & bookings using **Java, MySQL, OOP and CRUD operations**.
+## 🛒 eCommerce Web Application
 
-🔗 https://github.com/RoyEid/Airline-Management-System
+Full-stack **eCommerce web application** built with **PHP, MySQL, JavaScript, jQuery and Bootstrap**.
+
+Features:
+
+- User authentication system
+- Admin dashboard
+- Product management
+- Responsive UI
+- Dynamic product pages
+
+🔗 https://github.com/RoyEid/eCommerce
 
 ---
 
-### 🌐 Template_1
-Responsive **HTML/CSS website template**.
+## 🌐 Template_1
+
+Responsive **HTML/CSS website template** demonstrating modern layout design and responsive web development practices.
 
 🔗 https://github.com/RoyEid/Template_1
 
