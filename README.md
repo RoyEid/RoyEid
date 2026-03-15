@@ -20,40 +20,49 @@ Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**. I enjoy bu
 ## 🛠 My favorite tools and technologies
 
 <table>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48" alt="Java"/><br/>Java
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48" alt="MySQL"/><br/>MySQL
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48" alt="React"/><br/>React
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48" alt="Node.js"/><br/>Node.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=express" width="48" alt="Express.js"/><br/>Express.js
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48" alt="JavaScript"/><br/>JavaScript
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48" alt="HTML5"/><br/>HTML5
-    </td>
-  </tr>
-  <tr>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48" alt="CSS3"/><br/>CSS3
-    </td>
-    <td align="center" width="110">
-      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48" alt="Git"/><br/>Git
-    </td>
-    <td align="center" width="110">
-      <img src="https://skillicons.dev/icons?i=github" width="48" alt="GitHub"/><br/>GitHub
-    </td>
-  </tr>
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>Java
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/>MySQL
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="48"/><br/>React
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="48"/><br/>Node.js
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="48"/><br/>Express.js
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48"/><br/>JavaScript
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
+</td>
+</tr>
+
+<tr>
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48"/><br/>Git
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="48"/><br/>GitHub
+</td>
+</tr>
 </table>
 
 ---
@@ -75,11 +84,10 @@ Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**. I enjoy bu
 
 ## 💡 Featured Projects
 
-- 🛒 <a href="https://github.com/RoyEid/eCommerce"><b>eCommerce Web Application</b></a>  
-  Full-stack eCommerce web application featuring **authentication, product management, and admin dashboard**, built with **PHP, MySQL, JavaScript, jQuery, and Bootstrap** with a responsive user interface.
+### ✈️ Airline Management System
+Java-based airline management system to manage flights, passengers & bookings using **Java, MySQL, OOP and CRUD operations**.
 
-- 🌐 <a href="https://github.com/RoyEid/Template_1"><b>Template_1</b></a>  
-  Responsive **HTML/CSS website template** showcasing modern layout design and responsive web development practices.
+🔗 https://github.com/RoyEid/Airline-Management-System
 
 ---
 
