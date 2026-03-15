@@ -1,23 +1,43 @@
 # Hi there 👋, I'm Roy!
 
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=RoyEid&color=0A66C2"/>
+</p>
+
 Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**.  
 I enjoy building scalable applications, improving backend architecture, and exploring modern frontend & backend technologies.
 
 ---
 
-# 📬 How to reach me
+## 📬 How to reach me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/royeid02)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:roy.eid02@gmail.com)
 
 ---
 
-# 💡 About Me
+## 💡 About Me
 
 - 💻 Full-Stack developer working with **Java, React, Node.js, Express.js & MySQL**
 - 🧠 Passionate about **clean code, scalable architecture and problem solving**
 - 🌱 Always learning modern **frontend and backend technologies**
 - 🚀 Interested in building **real-world web applications**
+
+---
+
+## 🎯 Current Focus
+
+- Building full-stack applications with **React & Node.js**
+- Improving **backend architecture and REST API design**
+- Practicing **clean architecture and scalable code**
+
+---
+
+## 📚 Currently Learning
+
+- Advanced **React patterns**
+- **REST API design**
+- **Backend architecture with Node.js**
 
 ---
 
@@ -86,9 +106,10 @@ I enjoy building scalable applications, improving backend architecture, and expl
 
 </tr>
 </table>
+
 ---
 
-# 📈 GitHub Stats
+## 📈 GitHub Stats
 
 <p align="center">
 
@@ -100,38 +121,34 @@ I enjoy building scalable applications, improving backend architecture, and expl
 
 ---
 
-# 📊 Contribution Graph
+## 🔥 GitHub Streak
+
+<p align="center">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=RoyEid&theme=tokyonight"/>
+</p>
+
+---
+
+## 📊 Contribution Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=RoyEid&theme=react-dark)
 
 ---
 
-# 💡 Featured Projects
+## 💡 Featured Projects
 
-## 🛒 eCommerce Web Application
+### 🛒 eCommerce Web Application
 
-Full-stack **eCommerce web application** built with **PHP, MySQL, JavaScript, jQuery and Bootstrap**.
-
-Features:
-
-- User authentication system
-- Admin dashboard
-- Product management
-- Responsive UI
-- Dynamic product pages
+Full-stack **eCommerce platform** with authentication, admin dashboard, and product management built using **PHP, MySQL, JavaScript, jQuery and Bootstrap**.
 
 🔗 https://github.com/RoyEid/eCommerce
 
 ---
 
-## 🌐 Template_1
+### 🌐 Template_1
 
-Responsive **HTML/CSS website template** demonstrating modern layout design and responsive web development practices.
+Responsive **HTML/CSS website template** demonstrating modern layout design and responsive web development.
 
 🔗 https://github.com/RoyEid/Template_1
 
 ---
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=RoyEid&color=0A66C2"/>
-</p>
