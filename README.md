@@ -4,8 +4,8 @@
 <img src="https://komarev.com/ghpvc/?username=RoyEid&color=0A66C2"/>
 </p>
 
-Full-Stack Web Developer focused on **Java, React, Node.js & MySQL**.  
-I enjoy building scalable applications, improving backend architecture, and exploring modern frontend & backend technologies.
+Full-Stack Web Developer focused on **MERN Stack, Java, and modern web technologies**.  
+I enjoy building scalable applications, designing clean APIs, and creating responsive user interfaces.
 
 ---
 
@@ -18,26 +18,26 @@ I enjoy building scalable applications, improving backend architecture, and expl
 
 ## 💡 About Me
 
-- 💻 Full-Stack developer working with **Java, React, Node.js, Express.js & MySQL**
-- 🧠 Passionate about **clean code, scalable architecture and problem solving**
-- 🌱 Always learning modern **frontend and backend technologies**
-- 🚀 Interested in building **real-world web applications**
+- 💻 Full-Stack developer working with **MongoDB, Express, React, Node.js (MERN) & Java**
+- 🎨 Skilled in building responsive UIs using **Tailwind CSS & modern frontend tools**
+- 🧠 Passionate about **clean code, scalable architecture, and problem solving**
+- 🚀 Interested in building **real-world applications and improving user experience**
 
 ---
 
 ## 🎯 Current Focus
 
-- Building full-stack applications with **React & Node.js**
-- Improving **backend architecture and REST API design**
-- Practicing **clean architecture and scalable code**
+- Building full-stack applications with **React, Node.js & MongoDB**
+- Improving **REST API design and backend architecture**
+- Writing **clean, maintainable, and scalable code**
 
 ---
 
 ## 📚 Currently Learning
 
 - Advanced **React patterns**
-- **REST API design**
-- **Backend architecture with Node.js**
+- **System design basics**
+- Scalable backend architecture with **Node.js**
 
 ---
 
@@ -65,15 +65,15 @@ I enjoy building scalable applications, improving backend architecture, and expl
 </td>
 
 <td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/>MySQL
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="48"/><br/>MongoDB
+</td>
+
+<td align="center" width="110">
+<img src="https://skillicons.dev/icons?i=tailwind" width="48"/><br/>Tailwind CSS
 </td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48"/><br/>Java
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
 </td>
 
 </tr>
@@ -81,19 +81,19 @@ I enjoy building scalable applications, improving backend architecture, and expl
 <tr>
 
 <td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="48"/><br/>MySQL
+</td>
+
+<td align="center" width="110">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48"/><br/>HTML5
+</td>
+
+<td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48"/><br/>CSS3
 </td>
 
 <td align="center" width="110">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" width="48"/><br/>Bootstrap
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg" width="48"/><br/>jQuery
-</td>
-
-<td align="center" width="110">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="48"/><br/>PHP
 </td>
 
 <td align="center" width="110">
@@ -137,18 +137,23 @@ I enjoy building scalable applications, improving backend architecture, and expl
 
 ## 💡 Featured Projects
 
-### 🛒 eCommerce Web Application
+### 🏥 Doctor Appointment MERN App
 
-Full-stack **eCommerce platform** with authentication, admin dashboard, and product management built using **PHP, MySQL, JavaScript, jQuery and Bootstrap**.
+Full-stack **doctor appointment system** built using the **MERN stack** with:
 
-🔗 https://github.com/RoyEid/eCommerce
+- JWT Authentication  
+- Role-based access (Admin/User)  
+- Appointment CRUD system  
+- Doctor & Department management  
+
+🔗 https://github.com/RoyEid/doctor-appointment-mern
 
 ---
 
-### 🌐 Template_1
+### 🛒 eCommerce Web Application
 
-Responsive **HTML/CSS website template** demonstrating modern layout design and responsive web development.
+Full-stack **eCommerce platform** with authentication, admin dashboard, and product management built using **PHP, MySQL, JavaScript, jQuery, and Bootstrap**.
 
-🔗 https://github.com/RoyEid/Template_1
+🔗 https://github.com/RoyEid/eCommerce
 
 ---
